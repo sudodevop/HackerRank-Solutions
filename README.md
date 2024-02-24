@@ -1,2 +1,2 @@
-# HackerRank-Certificate
-👨‍💻 My HackerRank Certificate Solutions in JavaScript👨‍💻
+# HackerRank-Solutions
+👨‍💻 My HackerRank Solutions in JavaScript👨‍💻
